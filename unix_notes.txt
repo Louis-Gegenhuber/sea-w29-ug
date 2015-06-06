@@ -99,6 +99,8 @@ git add classdonuts
 git add table1
 git add table1.html
 git help
+
+   #ls -a displays hidden directories
 git commit
 git commit -a Donutable.html
 git commit -m readme.html
