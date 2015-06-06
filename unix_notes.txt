@@ -1,0 +1,167 @@
+history
+ls moving_down.txt
+ls moving_around.txt 
+subl
+history > moving_around.txt
+ls -t
+ls
+$ history > moving_around.txt
+pwd
+git
+history 
+cd ..
+cd /
+cd ../
+ls /
+cd class/
+cd $home
+cd repos/
+cd store
+../
+cd ../../../
+cd..
+ls -l
+help function
+LS
+cd
+eval $home
+home
+$home
+~cd
+cd~
+ls -S
+ls -R
+man
+ls -rtl
+rtl
+ls -rt
+ls -r
+ls -lt
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'Louis-Gegenhuber'git config --global user.email 'lookawake@live.com'
+git --version
+brew install git 
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+cd Applications/
+which sublime
+echo $path
+fish_update_completions
+which subl
+brew prune
+brew info
+brew doctor
+curl -fsSL http://git.io/beJs | ruby
+which fish
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew help
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+ls -a
+git init my_first_repository
+sudo apt-get update
+whoami
+cd documents
+ls /etc
+ls /ect
+ls - l
+ls-l
+git push
+git push -u origin master
+git remote add bak /home/classdonuts/table.html.git
+git remote add origin https://gfuusb/juyyye-oo
+git remote add origin https://github.com/esotaricpeanut/flaboyant-glasses
+git remote add origin https://github.com/1982gegenhuber/donutmaster
+git remote add origin https://github.com/gegenhuber/donuts
+git remote add origin https://github.com/louis/donuts
+git remote add origin https://github.com/try-git/try_git.git
+git log
+git commit -m 'Add all the donut html files'
+git add '*.html'
+git add'*.html'
+git status
+git init
+git commit add table1.html
+git commit -m "add table1.css"
+git commit -m "add table1.html"
+git add classdonuts
+git add table1
+git add table1.html
+git help
+git commit
+git commit -a Donutable.html
+git commit -m readme.html
+git add readme.html
+git add *.c
+get add *.c
+dzogchen9227
+Louis-Gegenhuber
+git remote add origen https"//github.com/Louis-Gegenhuber/readme.html.git
+git commit -n "first commit"
+git commit Donutable.html
+git commitrepos/Donutable.html 
+git commit "first commit"
+git add .
+git add
+ll
+git add reedme.html
+git add classgit add readme.html
+git add Donutable.html
+git add Donuttable.html
+gitinit
+git config --list
+git config --global user.email
+git config --global user.email lookawake@live.com
+git config --global user.name
+git config
+man ls
+cd ~/Documents
+ls -l~
+user@bash
+user@bash: pwd
+user@bash: ls
+spindump
+smc
+man git
+cd Documents
+li
+git 
+ls -la
+ls-la
+git help HEAD
+git add README.txt
+git add <html>
+git add chucknorris
+git add Hello-World
+giit status
+mkdir store
+git config --global user.name"Louis-Gegenhuber"
+git config --global color.ui true
+git config global color.ui true
+git onfig --global color.ui true
+git config --global color ui true
+git add octocat.txt
+-ls
+l
+/bin/sh
+softwareupdate --install --recomend
+mkdir
+git commit -m "Init project, simple index"
+git commit -m "Init project, simple index
+git add index.php
+cd chucknorris
+mkdir chucknorris
+cd github
+mkdir github
+man touch
+man man
+ls -l ~
