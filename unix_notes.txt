@@ -1,14 +1,16 @@
 history
 ls moving_down.txt
-ls moving_around.txt 
+ls moving_around.txt
 subl
 history > moving_around.txt
 ls -t
+
+#coment
 ls
 $ history > moving_around.txt
 pwd
 git
-history 
+history
 cd ..
 cd /
 cd ../
@@ -41,7 +43,7 @@ curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.name 'Louis-Gegenhuber'git config --global user.email 'lookawake@live.com'
 git --version
-brew install git 
+brew install git
 echo $PATH
 subl /etc/paths
 echo $EDITOR
@@ -108,7 +110,7 @@ Louis-Gegenhuber
 git remote add origen https"//github.com/Louis-Gegenhuber/readme.html.git
 git commit -n "first commit"
 git commit Donutable.html
-git commitrepos/Donutable.html 
+git commitrepos/Donutable.html
 git commit "first commit"
 git add .
 git add
@@ -134,7 +136,7 @@ smc
 man git
 cd Documents
 li
-git 
+git
 ls -la
 ls-la
 git help HEAD
