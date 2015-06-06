@@ -102,6 +102,8 @@ git help
 
    #ls -a displays hidden directories
 git commit
+
+# notes git note examle yaba daba do da
 git commit -a Donutable.html
 git commit -m readme.html
 git add readme.html
